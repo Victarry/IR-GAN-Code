@@ -1,0 +1,17 @@
+__pycache__/
+.mypy_cache/*
+*.pyc
+*.swp
+example_args
+*.pth
+scripts/*.sh
+GeNeVA.egg-info/
+build/
+dist/
+.idea/
+GeNeVA_datasets/
+*ipynb_checkpoints
+.vscode/
+runs/*
+results/
+*.md
